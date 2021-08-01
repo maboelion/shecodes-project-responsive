@@ -69,6 +69,11 @@ nav a {
 	border: 1px solid var(--primary-color);
 }
 
+.main-content {
+	max-width: 1200px;
+	margin: 0 auto;
+}
+
 .about-paragraphs p {
 	margin: 10px;
 	background: var(--secondary-color);
