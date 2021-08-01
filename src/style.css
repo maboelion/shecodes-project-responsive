@@ -9,8 +9,8 @@ body {
 }
 
 header {
-	margin: 90px 0 60px auto;
-	max-width: 1200px;
+	margin-top: 90px;
+	margin-bottom: 60px;
 	text-align: center;
 }
 
